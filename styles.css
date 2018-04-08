@@ -1,0 +1,86 @@
+@font-face {
+font-family: 'Harry Potter';
+src: url('http://www.fontsaddict.com/fontface/harry-potter.TTF');
+}
+h1{
+    color: #FFC500;
+    font-family: Harry Potter;
+    font-size: 100px;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+h2{
+  color: #FFC500;
+  font-family: Harry Potter;
+  font-size: 25px;
+  text-align: center;
+}
+h3{
+  color: #FFC500;
+  font-family: Harry Potter;
+  font-size: 25px;
+  text-align: center;
+}
+
+h4{
+  color: #FFC500;
+  font-family: Harry Potter;
+  font-size: 20px;
+  text-align: center;
+}
+h5{
+  color: #FFC500;
+  font-family: Harry Potter;
+  font-size: 14px;
+  text-align: center;
+}
+p{
+  color:#FFC500;
+  font-family: Harry Potter;
+  font-size: 20px;
+  text-align: center;
+}
+.hero{
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  height: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.subhero1{
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+
+.subsubhero{
+  width:20%;
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+}
+.imgresize{
+  height: 241px;
+}
+a{
+  text-decoration: none;
+}
+.imgresize2{
+  height: 500px;
+}
+.hejninja{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.lista{
+    color: #FFC500;
+    font-size: 14px;
+    text-align: 
+}
