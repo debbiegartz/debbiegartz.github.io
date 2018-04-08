@@ -7,8 +7,10 @@ h1{
     font-family: Harry Potter;
     font-size: 100px;
     text-align: center;
-    margin-top: 40px;
+    margin-top:30px;
     margin-bottom: 20px;
+    margin: auto;
+    width: 80%;
 }
 
 h2{
@@ -71,7 +73,7 @@ a{
   text-decoration: none;
 }
 .imgresize2{
-  height: 500px;
+  height: 450px;
 }
 .hejninja{
   width: 100%;
@@ -85,5 +87,21 @@ a{
     text-align:left;
     display: flex;
     justify-content: center;
-  
 }
+svg{
+  padding-top: 40px;
+  padding-left: 20px;
+}
+.sluttex{
+  margin-bottom: 50px;
+}
+.arrow{
+  margin-top: 0px;
+  padding-left: 20px;
+}
+.hero2{
+    margin-top: 20px;
+
+}
+.imgresize3{
+  height: 200px;
