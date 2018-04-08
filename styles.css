@@ -82,5 +82,8 @@ a{
 .lista{
     color: #FFC500;
     font-size: 14px;
-    text-align: 
+    text-align:left;
+    display: flex;
+    justify-content: center;
+  
 }
